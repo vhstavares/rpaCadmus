@@ -5,7 +5,7 @@ Para verificar a versão acesse o link: chrome://settings/help
 Link para o download do chrome driver: https://chromedriver.chromium.org/downloads
 após o download basta descompactar o chromedriver.exe no diretorio do projeto
 
-#Sobre o RPA
+#Sobre o RPA: 
 RPA simples que acessa o link https://cadmus.com.br/vagas-tecnologia/, e coleta as informações
 de vagas de emprego na cadmus caso tenha;
 Coloca todas em um report no excel _Report_Vagas.xlsx;
