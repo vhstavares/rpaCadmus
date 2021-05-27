@@ -1,4 +1,4 @@
-# rpaCadmus
+# rpaCadmus. Python 3.7
 Chrome Driver Como Obter:
 Versão do chrome nesse projeto: Versão 91.0.4472.77 (Versão oficial) 64 bits
 Para verificar a versão acesse o link: chrome://settings/help
